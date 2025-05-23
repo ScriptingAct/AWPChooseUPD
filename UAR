@@ -1,3 +1,3 @@
-loadstring(game httpget('https://raw.githubusercontent.com/ScriptingAct/AWPHUB/refs/heads/main/Therake1'))()
+loadstring(game:httpget('https://raw.githubusercontent.com/ScriptingAct/AWPHUB/refs/heads/main/Therake1'))()
 
-loadstring(game httpget('https://raw.githubusercontent.com/ScriptingAct/AWPHUB/refs/heads/main/Natural_Disaster'))()
+loadstring(game:httpget('https://raw.githubusercontent.com/ScriptingAct/AWPHUB/refs/heads/main/Natural_Disaster'))()
