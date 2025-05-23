@@ -1,3 +1,18 @@
+-- Game Check
+if game.PlaceId ~= 2413927524 then
+    warn("This script only works in Natural Disaster Survival.")
+    return
+end
+
 loadstring(game:httpget('https://raw.githubusercontent.com/ScriptingAct/AWPHUB/refs/heads/main/Therake1'))()
+
+
+
+
+-- Game Check
+if game.PlaceId ~= 189707 then
+    warn("This script only works in Natural Disaster Survival.")
+    return
+end
 
 loadstring(game:httpget('https://raw.githubusercontent.com/ScriptingAct/AWPHUB/refs/heads/main/Natural_Disaster'))()
